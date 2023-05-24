@@ -1,1 +1,8 @@
 /* Add custom CSS here. */
+
+.custom-image {
+    width: 200px;
+    height: 200px;
+
+    max-width: 100%;
+}
