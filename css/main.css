@@ -134,8 +134,8 @@ div.content
 }
 .headshot
 {
-    width: 200px;
-    height: 200px;
+    width: 200px !important;
+    height: 200px !important;
 }
 .info
 {
@@ -215,9 +215,9 @@ h6.meta
 
     color: #8b8b8b;
 }
-section.meta {
+/* section.meta {
     margin-top:
-}
+} */
 .powered
 {
     font-family: 'Roboto', sans-serif;
