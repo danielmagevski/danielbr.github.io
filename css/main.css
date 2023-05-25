@@ -68,6 +68,7 @@ li
 
     max-width: 680px;
     padding: 0 15px;
+    margin: 20px auto;
 }
 .content
 {
@@ -136,6 +137,7 @@ div.content
 {
     width: 200px;
     height: 200px;
+    object-fit: cover;
 }
 .info
 {
@@ -215,9 +217,7 @@ h6.meta
 
     color: #8b8b8b;
 }
-section.meta {
-    margin-top:
-}
+
 .powered
 {
     font-family: 'Roboto', sans-serif;
