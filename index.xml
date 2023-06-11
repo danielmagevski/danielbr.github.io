@@ -6,5 +6,15 @@
     <description>Recent content on Daniel Magevski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language><atom:link href="danielbr.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>danielbr.me/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>danielbr.me/about/</guid>
+      <description>Professional with experience in technical support, infrastructure analyst, network analyst and cloud engineer working in critical environments on premises and cloud AWS with various technologies. I believe to achieve the best results teamwork is crucial, I am always willing to learn and work with new technologies Enthusiastic DevOps, Kubernetes, IaC and Cybersecurity, currently doing the Linux Foundation&amp;rsquo;s Cloud Engineer Bootcamp
+Certifications Languages and Technologies </description>
+    </item>
+    
   </channel>
 </rss>

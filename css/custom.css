@@ -1,1 +1,21 @@
 /* Add custom CSS here. */
+.groupImg {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+}
+
+
+.groupImg img[src$='#badge'] {
+   width: 100px;
+   margin: 10px 0;
+}
+
+.groupImg img[src$='#language'] {
+    width: 45px;
+    margin: 10px 0;
+ }
